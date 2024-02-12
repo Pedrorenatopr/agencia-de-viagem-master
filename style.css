@@ -136,6 +136,7 @@ span {
 .pais {
     position: absolute;
     padding-left: 5px;
+    font-size: 18px;
 }
 
 #seta {
@@ -148,6 +149,7 @@ span {
 
 .dias {
     padding-left: 30px;
+    font-size: 14px;
 }
 
 .card-teste {
