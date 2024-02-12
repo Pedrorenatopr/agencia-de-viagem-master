@@ -400,6 +400,10 @@ span {
         color: black;
     }
 
+    .botao-um {
+        width: 95%;
+    }
+
     .logo {
         position: absolute;
         padding-left: 0;
@@ -495,6 +499,7 @@ span {
 
     .texto-section-tres {
         width: 100%;
+        padding-top: 150px;
     }
 
     .card-teste {
