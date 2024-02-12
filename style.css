@@ -64,6 +64,7 @@ body {
     border-radius: 10px;
     padding: 15px;
     width: 300px;
+    font-size: 24px;
 }
 
 
@@ -409,6 +410,7 @@ span {
 
     .botao-um {
         width: 95%;
+        font-size: 18px;
     }
 
     .descricao {
