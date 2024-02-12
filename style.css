@@ -131,6 +131,7 @@ span {
     border-radius: 10px;
     background-color: rgb(246, 246, 246);
     overflow: hidden;
+    width: 350px;
 }
 
 .preco {
