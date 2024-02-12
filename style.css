@@ -275,6 +275,7 @@ span {
 .galeria-dois-img {
     width: 400px;
     border-radius: 10px;
+    height: 192px;
 }
 
 .texto-g {
@@ -410,7 +411,7 @@ span {
         position: absolute;
         padding-left: 0;
         padding-top: 0;
-        width: 60px;
+        width: 150px;
     }
 
     .menu-itens {
@@ -587,6 +588,7 @@ span {
     .galeria-dois-img {
         width: 170px;
         border-radius: 10px;
+        height: 81px;
     }
 
     .texto-g {
