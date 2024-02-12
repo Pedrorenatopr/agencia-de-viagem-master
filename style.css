@@ -571,13 +571,13 @@ span {
     .galeria-dois {
         padding-top: 500px;
         display: grid;
-        grid-template-columns: 25% 25% 25%;
+        grid-template-columns: 50% 50%;
         gap: 1em;
         justify-content: center;
     }
 
     .galeria-dois-img {
-        width: 100px;
+        width: 180px;
         border-radius: 10px;
     }
 
