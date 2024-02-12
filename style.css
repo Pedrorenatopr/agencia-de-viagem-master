@@ -177,6 +177,20 @@ span {
     position: absolute;
 }
 
+.img-local {
+    position: absolute;
+    background-color: #F15A2B;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.img-preco {
+    position: absolute;
+    background-color: #006380;
+    border-radius: 10px;
+    padding: 12px;
+}
+
 .texto-card-quatro {
     padding-left: 70px;
     margin-top: -10px;
@@ -533,7 +547,7 @@ span {
 
     .section-quatro {
         padding-left: 0;
-        padding-top: 150px;
+        padding-top: 0;
     }
 
     .texto-quatro {
@@ -541,6 +555,10 @@ span {
         color: gray;
         width: 100%;
         text-align: center;
+        padding-top: 50px;
+    }
+
+    .texto-h1 {
     }
 
 
@@ -552,6 +570,7 @@ span {
     
     .card-quatro {
         padding-top: 50px;
+        display: none;
     }
 
     .card-quatro-dois {
