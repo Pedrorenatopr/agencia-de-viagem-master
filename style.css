@@ -1,0 +1,648 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.icones {
+    display: none;
+}
+
+.logo {
+    position: absolute;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.menu-lista {
+    display: flex;
+    justify-content: end;
+    padding-top: 50px;
+    padding-right: 100px;
+    list-style: none;
+    text-align: center;
+}
+
+.menu-itens {
+    color: black;
+    text-decoration: none;
+    list-style: none;
+    padding: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.imagem-principal {
+    padding-left: 700px;
+}
+
+.section-principal {
+    position: absolute;
+    margin-top: -600px;
+    padding-left: 100px;
+}
+
+.texto-um {
+    color: orangered;
+    font-weight: bold;
+}
+
+.texto-dois {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.botao-um {
+    background-color: #F1A501;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+}
+
+
+
+.play {
+    margin-top: -8px;
+    position: absolute;
+}
+
+span {
+    padding-left: 70px;
+}
+
+.texto-section-dois {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.titulo-section-dois {
+    text-align: center;
+}
+
+
+.section-dois {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.titulo-card {
+    font-weight: bold;
+}
+
+.texto-card {
+    font-size: 14px;
+}
+
+
+.card {
+    padding: 2em;
+    
+}
+
+.teste {
+    width: 80px;
+    height: 80px;
+}
+
+.texto-section-tres {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.titulo-section-tres {
+    text-align: center;
+}
+
+.section-tres {
+    padding: 1em;
+}
+
+.card-tres {
+    border-radius: 10px;
+    background-color: rgb(246, 246, 246);
+    overflow: hidden;
+}
+
+.preco {
+    text-align: end;
+    padding-right: 5px;
+}
+
+.pais {
+    position: absolute;
+    padding-left: 5px;
+}
+
+#seta {
+    position: absolute;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 5px;
+    font-size: 14px;
+}
+
+.dias {
+    padding-left: 30px;
+}
+
+.card-teste {
+    display: flex;
+    justify-content: center;
+}
+
+.section-quatro {
+    padding-left: 100px;
+    padding-top: 200px;
+}
+
+.texto-quatro {
+    font-weight: bold;
+    color: gray;
+}
+
+.img-quatro {
+    position: absolute;
+}
+
+.texto-card-quatro {
+    padding-left: 70px;
+    margin-top: -10px;
+}
+
+.legenda-quatro {
+    top: 0;
+    padding-top: 0%;
+    margin-top: 0;
+}
+
+.titulo-quatro {
+    left: 0;
+    padding-left: 0;
+    margin-left: 0;
+    right: 0;
+    line-height: 0;
+    font-weight: bold;
+}
+
+.card-quatro {
+    padding-top: 50px;
+}
+
+.card-quatro-dois {
+    position: absolute;
+    margin-top: -400px;
+    padding-left: 600px;
+}
+
+.texto-direita {
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.data {
+    color: gray;
+    padding-left: 5px;
+}
+
+
+.teste-texto {
+    color: gray;
+    left: 0;
+    padding-left: 10px;
+}
+
+.coracao {
+    text-align: center;
+    padding-left: 140px;
+}
+
+.predio {
+    padding-left: 5px;
+}
+
+.card-direita {
+    background-color: rgb(246, 246, 246);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.cartao-quatro {
+    padding-left: 400px;
+
+}
+
+.titulo-cinco {
+    font-weight: bold;
+    color: gray;
+}
+
+.section-cinco {
+    padding-top: 100px;
+    padding-left: 500px;
+}
+
+.card-cinco {
+    position: absolute;
+    margin-top: -140px;
+    padding-left: 500px;
+}
+
+.maike {
+    font-weight: bold;
+}
+
+.maike-pais {
+    font-size: 12px;
+    line-height: 0;
+}
+
+
+.section-seis {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.patrocinio {
+    padding: 2em;
+}
+
+.section-sete {
+    margin-top: 100px;
+
+}
+
+.texto-sete {
+    text-align: center;
+    color: gray;
+}
+
+.section-sete {
+    text-align: center;
+    left: 0;
+}
+
+.botao-sete {
+    text-align: center;
+    background-color: #FF946D;
+    border: none;
+    height: 50px;
+    border-radius: 10px;
+    width: 150px;
+    color: white;
+}
+
+.email {
+    height: 50px;
+    background-color: rgb(228, 224, 224);
+    border-radius: 10px;
+    border: none;
+}
+
+.itens-sete {
+    padding: 3em;
+}
+
+.botoes-sete {
+    display: flex;
+    justify-content: center;
+}
+
+.icones-sete-itens {
+    padding: 1em;
+}
+
+.titulo-footer {
+    padding-left: 400px;
+}
+
+.legenda-footer {
+    padding-left: 400px;
+}
+
+.footer {
+    padding-top: 100px;
+}
+
+.section-footer {
+    padding-left: 700px;
+    margin-top:  -100px;
+}
+
+.lista-footer {
+    display: grid;
+    grid-template-columns: 10% 10% 10%;
+    list-style: none;
+    gap: 0.7em; 
+}
+
+.itens-footer {
+    text-decoration: none;
+    color: black;
+}
+
+.inicio-footer {
+    font-weight: bold;
+    padding-left: 0;
+}
+
+.redes {
+    padding-left: 1200px;
+    margin-top: -140px;
+}
+
+.texto-app {
+    padding-left: 10px;
+}
+
+.copy {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 14px;
+}
+
+@media screen and (max-device-width: 700px) {
+
+    .icones {
+        display: flex;
+        justify-content: end;
+    }
+
+    .botao {
+        background: none;
+        border: none;
+        color: black;
+    }
+
+    .logo {
+        position: absolute;
+        padding-left: 0;
+        padding-top: 0;
+        width: 60px;
+    }
+
+    .menu-itens {
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+    }
+
+    #burguer {
+        display: block;
+        cursor: pointer;
+    }
+
+    .menu-lista {
+        display: none;
+    }
+
+    body {
+        background: none;
+    }
+
+    .imagem-principal {
+        width: 300px;
+        padding-left: 5px;
+        margin-top: 50px;
+    }
+
+    .imagem {
+        display: flex;
+        justify-content: end;
+        padding-top: 30px;
+    }
+
+    .section-principal {
+        position: absolute;
+        margin-top: 0;
+        padding-left: 10px;
+        margin-top: -340px;
+    }
+
+    .texto-dois {
+        font-size: 18px;
+    }
+
+    .texto-um {
+        font-size: 18px;
+    }
+
+    p {
+        width: 30%;
+        font-size: 14px;
+    }
+
+    .texto-section-dois {
+        text-align: center;
+        padding-top: 150px;
+        width: 100%;
+    }
+
+    .titulo-section-dois {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .texto-card {
+        font-size: 12px;
+    }
+
+
+    .titulo-card {
+        font-weight: bold;
+        font-size: 12px;
+    }
+    
+
+    .section-dois {
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        justify-content: center;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .teste {
+        width: 50px;
+        height: 50px;
+    }
+
+    .texto-section-tres {
+        width: 100%;
+    }
+
+    .card-teste {
+        display: grid;
+        justify-content: center;
+    }
+    
+    .preco {
+        text-align: end;
+        padding-right: 5px;
+        width: 98%;
+    }
+
+    .cartao-quatro {
+        padding-left: 0;
+    }
+
+    .section-quatro {
+        padding-left: 0;
+        padding-top: 150px;
+    }
+
+    .texto-quatro {
+        font-weight: bold;
+        color: gray;
+        width: 100%;
+        text-align: center;
+    }
+
+
+    .texto-card-quatro {
+        padding-left: 70px;
+        margin-top: -10px;
+        text-align: left;
+    }
+    
+    .card-quatro {
+        padding-top: 50px;
+    }
+
+    .card-quatro-dois {
+        position: absolute;
+        margin-top: 0;
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        padding-top: 50px;
+    }
+
+    .titulo-quatro {
+        left: 0;
+        padding-left: 0;
+        margin-left: 0;
+        right: 0;
+        line-height: 0;
+        font-weight: bold;
+        width: 100%;
+    }
+
+    .texto-h1{
+        width: 100%;
+        text-align: center;
+    }
+
+    .legenda-quatro {
+        top: 0;
+        padding-top: 0%;
+        margin-top: 0;
+        text-align: left;
+        width: 100%;
+    }
+
+    .section-cinco {
+        padding-top: 500px;
+        padding-left: 0;
+        text-align: center;
+    }
+    
+    .card-cinco {
+        position: absolute;
+        margin-top: 0;
+        padding-left: 0;
+    }
+
+    .texto-card-cinco {
+        text-align: center;
+        width: 90vw;
+    }
+    
+    .titulo-cinco {
+        font-weight: bold;
+        color: gray;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .maike {
+        text-align: center;
+        width: 100%;
+    }
+
+    .maike-pais {
+        text-align: center;
+        width: 100%;
+    }
+
+    .section-seis {
+        display: grid;
+        padding-top: 150px;
+    }
+
+    #patrocinio-img {
+        height: 25px;
+    }
+
+    .section-sete {
+        margin-top: 50px;
+    
+    }
+
+    .icones-sete {
+        display: grid;
+    }
+
+    .titulo-footer {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .legenda-footer {
+        padding-left: 0;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    .section-footer {
+        padding-left: 0;
+        margin-top:  50px;
+    }
+
+    .lista-footer {
+        display: grid;
+        grid-template-columns: 20% 20% 20%;
+        list-style: none;
+        gap: 2em; 
+        justify-content: center;
+    }
+
+    .redes {
+        padding-left: 0;
+        margin-top: 50px;
+        text-align: center;
+    }
+
+    .texto-app {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer {
+        padding-top: 50px;
+    }
+
+    .copy {
+        width: 100%;
+        font-size: 13px;
+    }
+    
+    
+}
