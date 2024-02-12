@@ -53,6 +53,10 @@ body {
     font-weight: bold;
 }
 
+.descricao {
+    font-size: 24px;
+}
+
 .botao-um {
     background-color: #F1A501;
     color: white;
@@ -405,6 +409,10 @@ span {
 
     .botao-um {
         width: 95%;
+    }
+
+    .descricao {
+        font-size: 14px;
     }
 
     .logo {
