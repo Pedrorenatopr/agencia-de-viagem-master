@@ -420,6 +420,11 @@ span {
     font-size: 14px;
 }
 
+.footer-dois {
+    text-align: center;
+
+}
+
 @media screen and (max-device-width: 700px) {
 
     .icones {
@@ -733,6 +738,15 @@ span {
     .copy {
         width: 100%;
         font-size: 13px;
+    }
+
+    .footer-dois {
+        text-align: center;
+        width: 100%;
+    }
+
+    .copy-dois {
+        text-align: center;
     }
     
     
