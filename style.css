@@ -79,9 +79,12 @@ span {
 }
 
 .fundo-um {
-    background-image: url(pontos-de-fundo.png);
-    background-repeat: no-repeat;
-    background-position: right;
+
+}
+
+.fundo-dois {
+
+
 }
 
 .texto-section-dois {
