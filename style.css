@@ -260,6 +260,7 @@ span {
     background-color: rgb(246, 246, 246);
     border-radius: 10px;
     overflow: hidden;
+    width: 400px;
 }
 
 .cartao-quatro {
